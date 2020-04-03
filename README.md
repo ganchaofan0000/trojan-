@@ -1,4 +1,4 @@
-# trojan-
+# trojan-一键脚本（三步）搭建
 网址：https://www.v2rayssr.com/trojan-2.html
 
 1.解析域名
